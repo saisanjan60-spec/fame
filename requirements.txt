@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+httpx
+PyJWT
+pyswisseph
+geopy
+timezonefinder
+google-auth
+requests
